@@ -1,2 +1,2 @@
-# RESEND
-This an e-commerce website.
+# hughjass
+ SvelteKit & TailwindCSS web portfolio
